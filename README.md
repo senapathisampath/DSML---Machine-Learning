@@ -1,5 +1,5 @@
 
-**DSML - Machine Learning**
+**DSML - Machine Learning Algorithms**
 
 
 •	Linear Regression
